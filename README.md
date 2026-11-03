@@ -1,2 +1,9 @@
 # my-uiux-learning
-My journey learning GitHub as a UI/UX Designer
+Hello! I'm Learning Github to improve my collaboration with developer
+## My-Skills
+Figma
+UI/UX Design
+Prototyping 
+Design Systems 
+## My Goal 
+Become a Senior UIUX Designer
